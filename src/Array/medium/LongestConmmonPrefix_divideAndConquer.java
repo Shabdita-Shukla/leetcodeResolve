@@ -1,4 +1,4 @@
-package Array.easy;
+package Array.medium;
 
 public class LongestConmmonPrefix_divideAndConquer {
     public static void main(String args[]) {
